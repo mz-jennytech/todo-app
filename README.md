@@ -1,13 +1,39 @@
-# Getting Started with Create React App
+# ToDo-List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
-## Available Scripts
+## ToDo-App
 
-In the project directory, you can run:
+![Todo list img](https://user-images.githubusercontent.com/56915109/137813083-05fa9750-2682-4194-bec7-b1c8d930e3a9.PNG)
+
+### Features
+
+- Add new task
+
+- Set task priority
+
+- Edit task
+
+- Delete task
+
+### `Edit task page`
+
+![Todo list Edit page](https://user-images.githubusercontent.com/56915109/137813174-bd4f9802-aba5-4576-bab1-29d490a30180.PNG)
+
+# Technologies used:
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- React.js
+
+
+# Npm
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
